@@ -6,6 +6,7 @@ public class NewBehaviourScript : MonoBehaviour
 {
     // СЕРГЕЙ ЛУЧШИЙ РАЗРАБОТЧИК ИГР НА ЮНИТИ!!!
     // Мой коментарий
+    // Не знаю я
     // Start is called before the first frame update
     void Start()
     {
